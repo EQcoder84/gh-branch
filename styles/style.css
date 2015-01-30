@@ -1,8 +1,12 @@
-body{
+body {
 font-famliy: sans-serif;
 }
 
 
-h1{
+h1 {
   font-family:'Lobster', cursive;
+}
+
+#id {
+  color:rgba(255,20,147,0.8);
 }
