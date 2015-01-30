@@ -2,11 +2,14 @@ body {
 font-famliy: sans-serif;
 }
 
+#title{
+  color:rgba(255,20,147,0.8);
+  font-family: Impact,sans-serif;
+}
+
 
 h1 {
   font-family:'Lobster', cursive;
 }
 
-#id {
-  color:rgba(255,20,147,0.8);
-}
+
